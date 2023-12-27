@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>tech on 河流</title><link>https://example.org/tags/tech/</link><description>Recent content in tech on 河流</description><generator>Hugo -- gohugo.io</generator><language>zh</language><lastBuildDate>Sat, 12 Aug 2023 15:21:08 +0800</lastBuildDate><atom:link href="https://example.org/tags/tech/index.xml" rel="self" type="application/rss+xml"/><item><title>从Github项目讨论中学到的开源知识</title><link>https://example.org/posts/%E5%BC%80%E6%BA%90/</link><pubDate>Sat, 12 Aug 2023 15:21:08 +0800</pubDate><guid>https://example.org/posts/%E5%BC%80%E6%BA%90/</guid><description>&lt;p>最近围观了V2EX上关于
+ &lt;a href="https://www.v2ex.com/t/961178?p=5">immersive translate项目是否开源&lt;/a>的讨论及
+ &lt;a href="https://www.owenyoung.com/blog/fake-open-source/">作者的回应&lt;/a>，
+发现社区对开源的理解，对GitHub star的理解也不一致。
+喜欢该项目作者在博客的回应，列举了质疑、回应和行动，很像response letter，方便吃瓜。以下记录吃瓜过程中学到的几点。&lt;/p></description></item></channel></rss>
