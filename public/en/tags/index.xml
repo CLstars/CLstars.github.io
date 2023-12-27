@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tags on The River is Everywhere</title><link>https://example.org/en/tags/</link><description>Recent content in Tags on The River is Everywhere</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 22 Aug 2023 00:04:41 +0800</lastBuildDate><atom:link href="https://example.org/en/tags/index.xml" rel="self" type="application/rss+xml"/><item><title>jupyter</title><link>https://example.org/en/tags/jupyter/</link><pubDate>Tue, 22 Aug 2023 00:04:41 +0800</pubDate><guid>https://example.org/en/tags/jupyter/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on The River is Everywhere</title>
+    <link>https://example.org/en/tags/</link>
+    <description>Recent content in Tags on The River is Everywhere</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 22 Aug 2023 00:04:41 +0800</lastBuildDate>
+    <atom:link href="https://example.org/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>jupyter</title>
+      <link>https://example.org/en/tags/jupyter/</link>
+      <pubDate>Tue, 22 Aug 2023 00:04:41 +0800</pubDate>
+      <guid>https://example.org/en/tags/jupyter/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

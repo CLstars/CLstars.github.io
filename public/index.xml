@@ -1,11 +1,47 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>首页 on 河流</title><link>https://example.org/</link><description>Recent content in 首页 on 河流</description><generator>Hugo -- gohugo.io</generator><language>zh</language><lastBuildDate>Sat, 12 Aug 2023 15:21:08 +0800</lastBuildDate><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml"/><item><title>Daily</title><link>https://example.org/docs/daily/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/docs/daily/</guid><description>Dec 27, 2023 摸鱼🐟&amp;hellip;</description></item><item><title>从Github项目讨论中学到的开源知识</title><link>https://example.org/posts/%E5%BC%80%E6%BA%90/</link><pubDate>Sat, 12 Aug 2023 15:21:08 +0800</pubDate><guid>https://example.org/posts/%E5%BC%80%E6%BA%90/</guid><description>&lt;p>最近围观了V2EX上关于
- &lt;a href="https://www.v2ex.com/t/961178?p=5">immersive translate项目是否开源&lt;/a>的讨论及
- &lt;a href="https://www.owenyoung.com/blog/fake-open-source/">作者的回应&lt;/a>，
-发现社区对开源的理解，对GitHub star的理解也不一致。
-喜欢该项目作者在博客的回应，列举了质疑、回应和行动，很像response letter，方便吃瓜。以下记录吃瓜过程中学到的几点。&lt;/p></description></item><item><title>Chrome最大化快捷键失效</title><link>https://example.org/posts/Chrome%E6%9C%80%E5%A4%A7%E5%8C%96%E5%BF%AB%E6%8D%B7%E9%94%AE%E5%A4%B1%E6%95%88/</link><pubDate>Fri, 11 Aug 2023 17:15:00 +0800</pubDate><guid>https://example.org/posts/Chrome%E6%9C%80%E5%A4%A7%E5%8C%96%E5%BF%AB%E6%8D%B7%E9%94%AE%E5%A4%B1%E6%95%88/</guid><description>环境：MacOS
-现象：Google Chrome浏览器原来的快捷键是⌘ + Ctrl + f，快捷键不起作用
-原因：Chrome最大化快捷键变成了fn + F
-做法：
-打开系统设置-键盘-键盘快捷键-App快捷键-加号（+） 应用程序选择Google Chrome 菜单标题：进入全屏幕 （注：系统语言为英文则输入Enter Full Screen） 键盘快捷键：⌘ + Ctrl + f 点击加号（+）再添加一次 应用程序选择Google Chrome 菜单标题：退出全屏幕 （注：系统语言为英文则输入Exit Full Screen） 键盘快捷键：⌘ + Ctrl + f</description></item><item><title/><link>https://example.org/docs/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.org/docs/about/</guid><description>Read More,
-Think More,
-Write More.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>首页 on 河流</title>
+    <link>https://example.org/</link>
+    <description>Recent content in 首页 on 河流</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Sat, 12 Aug 2023 15:21:08 +0800</lastBuildDate>
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Daily</title>
+      <link>https://example.org/docs/daily/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/docs/daily/</guid>
+      <description>Dec 27, 2023 摸鱼🐟&amp;hellip; </description>
+    </item>
+    <item>
+      <title>从Github项目讨论中学到的开源知识</title>
+      <link>https://example.org/posts/%E5%BC%80%E6%BA%90/</link>
+      <pubDate>Sat, 12 Aug 2023 15:21:08 +0800</pubDate>
+      <guid>https://example.org/posts/%E5%BC%80%E6%BA%90/</guid>
+      <description>&lt;p&gt;最近围观了V2EX上关于&#xA;  &lt;a href=&#34;https://www.v2ex.com/t/961178?p=5&#34;&gt;immersive translate项目是否开源&lt;/a&gt;的讨论及&#xA;  &lt;a href=&#34;https://www.owenyoung.com/blog/fake-open-source/&#34;&gt;作者的回应&lt;/a&gt;，&#xA;发现社区对开源的理解，对GitHub star的理解也不一致。&#xA;喜欢该项目作者在博客的回应，列举了质疑、回应和行动，很像response letter，方便吃瓜。以下记录吃瓜过程中学到的几点。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Chrome最大化快捷键失效</title>
+      <link>https://example.org/posts/Chrome%E6%9C%80%E5%A4%A7%E5%8C%96%E5%BF%AB%E6%8D%B7%E9%94%AE%E5%A4%B1%E6%95%88/</link>
+      <pubDate>Fri, 11 Aug 2023 17:15:00 +0800</pubDate>
+      <guid>https://example.org/posts/Chrome%E6%9C%80%E5%A4%A7%E5%8C%96%E5%BF%AB%E6%8D%B7%E9%94%AE%E5%A4%B1%E6%95%88/</guid>
+      <description>环境：MacOS&#xA;现象：Google Chrome浏览器原来的快捷键是⌘ + Ctrl + f，快捷键不起作用&#xA;原因：Chrome最大化快捷键变成了fn + F&#xA;做法：&#xA;打开系统设置-键盘-键盘快捷键-App快捷键-加号（+） 应用程序选择Google Chrome 菜单标题：进入全屏幕 （注：系统语言为英文则输入Enter Full Screen） 键盘快捷键：⌘ + Ctrl + f 点击加号（+）再添加一次 应用程序选择Google Chrome 菜单标题：退出全屏幕 （注：系统语言为英文则输入Exit Full Screen） 键盘快捷键：⌘ + Ctrl + f </description>
+    </item>
+    <item>
+      <title>My First Post</title>
+      <link>https://example.org/posts/my-first-post/</link>
+      <pubDate>Fri, 11 Aug 2023 16:37:27 +0800</pubDate>
+      <guid>https://example.org/posts/my-first-post/</guid>
+      <description>This is my first post.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://example.org/docs/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/docs/about/</guid>
+      <description>Read More,&#xA;Think More,&#xA;Write More.</description>
+    </item>
+  </channel>
+</rss>
