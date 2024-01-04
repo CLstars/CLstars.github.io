@@ -1,10 +1,11 @@
 +++
-title = 'My App Defaults'
+title = '我的软件爱用好物（My App Defaults）'
 date = 2024-01-04T15:30:08+08:00
 draft = false
 +++
 
 <!--more-->
+
 Inspired by [App Defaults](https://defaults.rknight.me/) and [Another Dayu](https://anotherdayu.com/2023/5452/)
 
 📬 **Mail Client**: Outlook, Spark  

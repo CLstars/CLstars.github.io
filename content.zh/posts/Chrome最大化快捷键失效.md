@@ -5,7 +5,7 @@ draft: false
 tags: [chrome]
 categories: [记录]
 ---
-
+<!--more-->
 **环境**：MacOS
 
 **现象**：Google Chrome浏览器原来的快捷键是`⌘ + Ctrl + f`，快捷键不起作用
