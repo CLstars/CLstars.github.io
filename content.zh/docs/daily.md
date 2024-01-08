@@ -32,3 +32,18 @@ weight: 1
 {{< details title="Jan , 2024" open=true >}}
 
 {{< /details >}}
+
+
+{{< details title="Jan , 2024" open=true >}}
+
+{{< /details >}}
+
+
+{{< details title="Jan , 2024" open=true >}}
+
+{{< /details >}}
+
+
+{{< details title="Jan , 2024" open=true >}}
+
+{{< /details >}}
