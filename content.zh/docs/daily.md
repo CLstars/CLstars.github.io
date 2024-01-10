@@ -19,8 +19,8 @@ weight: 1
 {{< /details >}}
 
 
-{{< details title="Jan , 2024" open=true >}}
-
+{{< details title="Jan 10, 2024" open=true >}}
+> 允许自己做自己，允许他人做他人。
 {{< /details >}}
 
 
